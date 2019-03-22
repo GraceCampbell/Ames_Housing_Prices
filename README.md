@@ -22,6 +22,6 @@ This project is part of a competition on Kaggle. This data has two parts: a trai
 5. Fit the data to a `Lasso` regularization
 
 ## Final Model Performance
-My final model has an  $R^2$  score of 0.839, which means about ~84% of the variance in the data can be explained by my model compared to the null model.
+My final model has an  R-squared  score of 0.839, which means about ~84% of the variance in the data can be explained by my model compared to the null model.
 
-![image.png](attachment:image.png)
+![alt text](https://git.generalassemb.ly/gcampbell114/project_2/blob/master/materials/residuals.png)
