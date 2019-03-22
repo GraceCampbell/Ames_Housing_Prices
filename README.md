@@ -24,4 +24,4 @@ This project is part of a competition on Kaggle. This data has two parts: a trai
 ## Final Model Performance
 My final model has an  R-squared  score of 0.839, which means about ~84% of the variance in the data can be explained by my model compared to the null model.
 
-![alt text](https://git.generalassemb.ly/gcampbell114/project_2/blob/master/materials/residuals.png)
+![alt text](https://github.com/GraceCampbell/Ames_Housing_Prices/blob/master/materials/residuals.png)
